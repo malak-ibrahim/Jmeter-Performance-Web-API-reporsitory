@@ -10,21 +10,22 @@ Utilizes various JMeter samplers and controllers to simulate different API scena
 # 2. Web Performance Testing:
 
 # Multiple Thread Groups:
-# Configured with diverse scenarios to simulate concurrent user loads on https://opensource-demo.orangehrmlive.com/.
-# Ensures a comprehensive evaluation of the web application's performance under varying levels of user activity.
+* Configured with diverse scenarios to simulate concurrent user loads on https://opensource-demo.orangehrmlive.com/.
+* Ensures a comprehensive evaluation of the web application's performance under varying levels of user activity.
 
 # Multiple Controllers and Samplers:
 
-# Incorporates different controllers and samplers to mimic real-world usage patterns and user interactions on the OrangeHRM website.
-# Enables a detailed analysis of the web application's responsiveness and stability.
+* Incorporates different controllers and samplers to mimic real-world usage patterns and user interactions on the OrangeHRM website.
+* Enables a detailed analysis of the web application's responsiveness and stability.
 
 # Website Recording and Templates Installation:
 
-# Demonstrates the process of recording user interactions on https://opensource-demo.orangehrmlive.com/ using JMeter.
-# Includes scripts for installing multiple templates on the OrangeHRM website for testing various scenarios.
+* Demonstrates the process of recording user interactions on https://opensource-demo.orangehrmlive.com/ using JMeter.
+* Includes scripts for installing multiple templates on the OrangeHRM website for testing various scenarios.
+
 # Plugin Integration:
 
-# Integrates various JMeter plugins to enhance testing capabilities and provide in-depth performance metrics.
+* Integrates various JMeter plugins to enhance testing capabilities and provide in-depth performance metrics.
 # How to Use:
 1-Clone this repository to your local machine.
 2-Navigate to the respective folders for API or web performance testing.
