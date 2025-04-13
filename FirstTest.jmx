@@ -1,0 +1,80 @@
+line 9 column 1 - Warning: meta lacks "content" attribute
+line 16 column 1 - Warning: link lacks "type" attribute
+line 20 column 1 - Warning: <link> lacks "type" attribute
+line 28 column 1 - Error: <nav> is not recognized!
+line 28 column 1 - Warning: discarding unexpected <nav>
+line 32 column 7 - Warning: unknown attribute "data-toggle"
+line 32 column 221 - Warning: trimming empty <i>
+line 53 column 120 - Warning: trimming empty <i>
+line 54 column 30 - Warning: unknown attribute "data-toggle"
+line 54 column 198 - Warning: trimming empty <i>
+line 54 column 285 - Warning: trimming empty <span>
+line 60 column 159 - Warning: trimming empty <i>
+line 61 column 144 - Warning: trimming empty <i>
+line 62 column 135 - Warning: trimming empty <i>
+line 66 column -3 - Warning: discarding unexpected </nav>
+line 67 column 1 - Error: <header> is not recognized!
+line 67 column 1 - Warning: discarding unexpected <header>
+line 74 column 3 - Warning: unknown attribute "placeholder"
+line 76 column 78 - Warning: trimming empty <i>
+line 76 column 82 - Warning: trimming empty <button>
+line 77 column 3 - Warning: trimming empty <span>
+line 80 column 3 - Warning: unknown attribute "data-loading-text"
+line 80 column 3 - Warning: unknown attribute "data-toggle"
+line 80 column 163 - Warning: trimming empty <i>
+line 90 column -3 - Warning: discarding unexpected </header>
+line 92 column 3 - Error: <nav> is not recognized!
+line 92 column 3 - Warning: discarding unexpected <nav>
+line 94 column 8 - Warning: unknown attribute "data-target"
+line 94 column 8 - Warning: unknown attribute "data-toggle"
+line 94 column 142 - Warning: trimming empty <i>
+line 94 column 146 - Warning: trimming empty <button>
+line 98 column 46 - Warning: unknown attribute "data-toggle"
+line 107 column 54 - Warning: unknown attribute "data-toggle"
+line 116 column 54 - Warning: unknown attribute "data-toggle"
+line 132 column 54 - Warning: unknown attribute "data-toggle"
+line 165 column -1 - Warning: discarding unexpected </nav>
+line 177 column 41 - Warning: trimming empty <div>
+line 179 column 33 - Warning: trimming empty <div>
+line 180 column 33 - Warning: trimming empty <div>
+line 181 column -1 - Warning: trimming empty <div>
+line 215 column 84 - Warning: trimming empty <i>
+line 216 column 10 - Warning: unknown attribute "data-toggle"
+line 216 column 127 - Warning: trimming empty <i>
+line 216 column 131 - Warning: trimming empty <button>
+line 217 column 10 - Warning: unknown attribute "data-toggle"
+line 217 column 133 - Warning: trimming empty <i>
+line 217 column 137 - Warning: trimming empty <button>
+line 234 column 84 - Warning: trimming empty <i>
+line 235 column 10 - Warning: unknown attribute "data-toggle"
+line 235 column 127 - Warning: trimming empty <i>
+line 235 column 131 - Warning: trimming empty <button>
+line 236 column 10 - Warning: unknown attribute "data-toggle"
+line 236 column 133 - Warning: trimming empty <i>
+line 236 column 137 - Warning: trimming empty <button>
+line 253 column 84 - Warning: trimming empty <i>
+line 254 column 10 - Warning: unknown attribute "data-toggle"
+line 254 column 127 - Warning: trimming empty <i>
+line 254 column 131 - Warning: trimming empty <button>
+line 255 column 10 - Warning: unknown attribute "data-toggle"
+line 255 column 133 - Warning: trimming empty <i>
+line 255 column 137 - Warning: trimming empty <button>
+line 272 column 84 - Warning: trimming empty <i>
+line 273 column 10 - Warning: unknown attribute "data-toggle"
+line 273 column 127 - Warning: trimming empty <i>
+line 273 column 131 - Warning: trimming empty <button>
+line 274 column 10 - Warning: unknown attribute "data-toggle"
+line 274 column 133 - Warning: trimming empty <i>
+line 274 column 137 - Warning: trimming empty <button>
+line 295 column 40 - Warning: trimming empty <div>
+line 297 column 33 - Warning: trimming empty <div>
+line 298 column 33 - Warning: trimming empty <div>
+line 299 column -1 - Warning: trimming empty <div>
+line 316 column 1 - Error: <footer> is not recognized!
+line 316 column 1 - Warning: discarding unexpected <footer>
+line 358 column -3 - Warning: discarding unexpected </footer>
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+71 warnings, 4 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
